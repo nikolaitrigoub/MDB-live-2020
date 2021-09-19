@@ -1,9 +1,11 @@
 {
+    "app_id": "billing-dvvvv",
     "config_version": 20180301,
-    "security": {},
     "custom_user_data_config": {
         "enabled": false
     },
+    "name": "billing",
+    "security": {},
     "sync": {
         "development_mode_enabled": false
     }
